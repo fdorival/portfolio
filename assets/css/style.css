@@ -491,7 +491,9 @@ section {
   background: #e4edf9;
   padding: 5px 15px;
   display: inline-block;
-  font-weight: 600;
+  color: gray;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
   margin-bottom: 10px;
 }
 
